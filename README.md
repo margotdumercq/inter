@@ -1,4 +1,4 @@
-Ouvrir Google Colab 
+Ouvrez Google Colab 
 
 Dans la fenêtre "Ouvrir le notebook", puis dans "GitHub" entrez le lien du GitHub 
 
